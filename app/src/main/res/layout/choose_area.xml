@@ -24,6 +24,7 @@
             android:layout_centerVertical="true"
             android:background="@drawable/ic_back"/>
     </RelativeLayout>
+
     <ListView
         android:id="@+id/list_view"
         android:layout_width="match_parent"
